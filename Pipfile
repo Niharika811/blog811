@@ -1,6 +1,7 @@
 [[source]]
-name = "blog811"
+url = "https://pypi.python.org/simple"
 verify_ssl = true
+name = "pypi"
 
 [dev-packages]
 
