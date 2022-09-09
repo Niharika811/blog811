@@ -1,1 +1,11 @@
+[[source]]
+name = "blog811"
+verify_ssl = true
 
+[dev-packages]
+
+[packages]
+django = "*"
+
+[requires]
+python_version = "3.10.6"
